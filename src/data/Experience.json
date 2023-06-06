@@ -1,0 +1,56 @@
+[
+    {
+      "year": "2023",
+      "date": "Apr 2023 – Jan 2024",
+      "location": "Surat, India",
+      "position": "Sr Frontend Developer",
+      "company": "NEXTNOUS",
+      "responsibilities": [
+        "In summary, my experience includes designing and developing responsive websites using HTML5, CSS3, and other relevant technologies. I have a strong proficiency in timely feature development, testing, and deployment. I establish and maintain HTML standards for consistency and compatibility. I efficiently utilize the Bootstrap framework for responsive web development. I manage WordPress websites, creating custom templates and fields with the ACF field plugin. I prioritize clean coding and user-friendly design when redesigning websites. I also specialize in designing logos, banners, and user interfaces for mobile applications using tools like Photoshop."
+      ]
+    },
+    {
+      "year": "2021",
+      "date": "Apr 2021 – Mar 2022",
+      "location": "Surat, India",
+      "position": "Frontend web developer",
+      "company": "Dynamic Dreamz",
+      "responsibilities": [
+        "I worked on a Shopify ecommerce store.",
+        "Create a website using the Bootstrap framework.",
+        "Work on numerous projects at the same time, prioritizing activities and ensuring that all projects are completed on schedule.",
+        "I made an animation using custom jQuery.",
+        "Converted PSD, XD and Figma files to HTML, CSS and jQuery."
+      ]
+    },
+    {
+      "year": "2019",
+      "date": "Apr 2019 – Mar 2021",
+      "location": "Surat, India",
+      "position": "Frontend web developer",
+      "company": "Casepoint Pvt.Ltd.",
+      "responsibilities": [
+        "We were working on an eDiscovery product.",
+        "I'm familiar with agile scrum and team foundation server (TFS).",
+        "I worked on the Kendo UI library.",
+        "Worked on 508 compliance for eDiscovery product.",
+        "I collaborated with the team to include 508 compliance into the product.",
+        "I created a dynamic website with Grav CMS."
+      ]
+    },
+    {
+      "year": "2018",
+      "date": "May 2018 – Apr 2019",
+      "location": "Surat, India",
+      "position": "Web Designer",
+      "company": "Ecreate Infotech",
+      "responsibilities": [
+        "Designed and developed responsive and adaptive website using HTML5 and CSS3.",
+        "Build a website with the Bootstrap framework.",
+        "Redesigned website with clean, efficient coding that is responsive and user-friendly.",
+        "Design an application logo and banner.",
+        "Designed the user interface for a mobile application in Photoshop."
+      ]
+    }
+  ]
+  
