@@ -11,7 +11,7 @@ function Footer() {
         <div className='find-job-section'>
             <h2>Seeking a New Challenge!🤙</h2>
             <p className='find-job-text'>
-            Open to Exciting Career Opportunities: I'm currently on the lookout for new professional ventures where I can contribute my skills and expertise. If you believe we could be a great match, let's connect! Feel free to reach out via  <a href="mailto:amikevadiya05@gmail.com"> <b>email</b> 📧</a>.
+           111 Open to Exciting Career Opportunities: I'm currently on the lookout for new professional ventures where I can contribute my skills and expertise. If you believe we could be a great match, let's connect! Feel free to reach out via  <a href="mailto:amikevadiya05@gmail.com"> <b>email</b> 📧</a>.
             </p>
         </div>
         <div className='connected-section'>

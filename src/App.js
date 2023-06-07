@@ -7,7 +7,7 @@ import './css/Style.css';
 import WOW from 'wowjs';
 import 'wowjs/css/libs/animate.css';
 import HomePage from './Home';
-import Portfolio from './components/portfolio/PortfolioPage';
+import Portfolio from './components/portfolio/PortfolioPage'
 import Nav from './components/Nav';
 import Footer from './components/Footer';
 
